@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /media/courses/test32/promo.jpg
+file: /media/courses/1-test32-spring-2022/promo.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
