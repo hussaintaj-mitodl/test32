@@ -15,10 +15,7 @@
     "content": [],
     "website": "test32"
   },
-  "course_image": {
-    "content": "7f88298f-433e-49f0-8bd5-ab0daa17c189",
-    "website": "test32"
-  },
+  "course_image": "",
   "course_title": "test32",
   "course_description": "test32",
   "department_numbers": [
@@ -26,10 +23,7 @@
   ],
   "extra_course_numbers": "1",
   "primary_course_number": "1",
-  "course_image_thumbnail": {
-    "content": "ce57d3df-2f1b-4ffe-95b4-9d87776a8408",
-    "website": "test32"
-  },
+  "course_image_thumbnail": "",
   "learning_resource_types": [],
   "site_uid": "70bb4eda-5834-4ed3-ae3f-ef07841c803e",
   "site_short_id": "test32"
