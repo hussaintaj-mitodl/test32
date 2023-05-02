@@ -2,17 +2,17 @@
 body: ''
 content_type: resource
 draft: false
-file: /media/courses/1-test32-spring-2022/course-thumbnail.jpg
-file_type: image/jpeg
+file: /media/gdrive_uploads/test32/1hJ6OizXNUJ5rtjki9l8hwh5NrED7qPEg/file.mp4
+file_type: video/mp4
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-resourcetype: Image
-title: course-thumbnail.jpg
-uid: ce57d3df-2f1b-4ffe-95b4-9d87776a8408
+resourcetype: Video
+title: file.mp4
+uid: 528cfe13-2165-4af7-a8ec-c1ed37aa9af7
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''
