@@ -12,7 +12,7 @@ learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
 title: file.vtt
-uid: 430e4161-8c08-42a0-bf08-3bc7e99b455d
+uid: 6512ebf3-7cdf-44cc-824f-1cb484f0e68c
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

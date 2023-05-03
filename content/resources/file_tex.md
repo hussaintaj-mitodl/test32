@@ -12,7 +12,7 @@ learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
 title: file.tex
-uid: 8b768115-31da-48f5-942e-6a67ed938e1d
+uid: 5ebdef9b-dfb9-4b39-83c7-6ad7d406d57d
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''
