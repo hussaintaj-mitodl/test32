@@ -2,17 +2,17 @@
 body: ''
 content_type: resource
 draft: false
-file: /media/gdrive_uploads/test32/1EfX-zzU5i6eXthlKutmIiyNokYBqANbs/video-gallery.mp4
-file_type: video/mp4
+file: /media/courses/1-test32-spring-2022/file.vtt
+file_type: text/vtt
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-resourcetype: Video
-title: video-gallery.mp4
-uid: 7cafc881-4fd6-42ec-bcb0-c006f6bd0de1
+resourcetype: Document
+title: file.vtt
+uid: 6512ebf3-7cdf-44cc-824f-1cb484f0e68c
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''
